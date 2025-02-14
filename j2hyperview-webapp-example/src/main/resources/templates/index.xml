@@ -1,0 +1,13 @@
+<doc xmlns="https://hyperview.org/hyperview">
+	<screen id="main">
+		<body>
+			<text href="#otherScreen" action="push">Hello</text>
+		</body>
+	</screen>
+
+	<screen id="otherScreen">
+		<body>
+			<text>Hello again</text>
+		</body>
+	</screen>
+</doc>
